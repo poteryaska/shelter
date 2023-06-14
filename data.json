@@ -1,0 +1,48 @@
+[
+  {
+    "model": "dogs.category",
+    "pk": 1,
+    "fields": {
+      "name": "hgfyr",
+      "description": "vgfyt"
+    }
+  },
+  {
+    "model": "dogs.category",
+    "pk": 2,
+    "fields": {
+      "name": "rtt",
+      "description": "jjjj"
+    }
+  },
+  {
+    "model": "dogs.dog",
+    "pk": 3,
+    "fields": {
+      "name": "ty",
+      "category": 1,
+      "photo": "",
+      "birth_day": null
+    }
+  },
+  {
+    "model": "dogs.dog",
+    "pk": 4,
+    "fields": {
+      "name": "do",
+      "category": 1,
+      "photo": "",
+      "birth_day": null
+    }
+  },
+    {
+    "model": "dogs.dog",
+    "pk": 5,
+    "fields": {
+      "name": "kolla",
+      "category": 1,
+      "photo": "",
+      "birth_day": null
+    }
+  }
+]
